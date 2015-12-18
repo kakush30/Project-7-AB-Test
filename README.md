@@ -36,3 +36,5 @@ Evaluation Metrics: Gross Conversion, Retention, Net Conversion
 The Unit of Diversion is choosen dring design phase in order to provide the monitoring of the user experience during throughout experiment. In this experiment we able to include non-logged traffic to compute some specefic metrics of interests. In this, cookies are choosen as one diversion, for Gross & Net Conversion, the denominators are cookies. Because both use cookies as the unit of analysis, the analytical estimate would be comparable to the emperical viability. 
 
 For retention, as unit of analysis are user-ids, non-logged in data cannot be tracked. It worth be doing an emperical estimate if time permits. 
+
+## Sizing
