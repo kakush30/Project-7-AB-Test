@@ -38,3 +38,5 @@ The Unit of Diversion is choosen dring design phase in order to provide the moni
 For retention, as unit of analysis are user-ids, non-logged in data cannot be tracked. It worth be doing an emperical estimate if time permits. 
 
 ## Sizing
+
+With Retention, the estimate page views 4741212.
