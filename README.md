@@ -15,5 +15,12 @@ Evaluation Metrics: Gross Conversion, Retention, Net Conversion
 
 ![2nd img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled2.png)
 
-Number of cookies counted before the studennt click `Strat Free Trial` and not affected with Experiment, so invariant metrics.
+1) Number of cookies counted before the studennt click `Strat Free Trial` and not affected with Experiment, so invariant metrics.
 
+2) Number of users can be different before & after showing the `message`. Thus it cannot be invariant metrics. 
+
+3) Number of clicks is invariant, because it counted before the experiment. 
+
+4) Click through probablity is formed from 2 variables, number of unique cookoie to click `Start free Trial` & number of unique cookies to view the overview page. Both of this collected before starting of experiment, so this is invariant. 
+
+5)
