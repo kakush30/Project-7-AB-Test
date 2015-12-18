@@ -8,6 +8,9 @@ greater time commitment for successful completion`, and indicating student might
 ## Experiment Design
 
 Invariant Metrics: Number of Cookies, Number of Clicks
+
 Evaluation Metrics: Gross Conversion, Retention, Net Conversion
 
 ![1st img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled1.png)
+
+![2nd img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled2.png)
