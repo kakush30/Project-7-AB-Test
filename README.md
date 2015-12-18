@@ -14,3 +14,6 @@ Evaluation Metrics: Gross Conversion, Retention, Net Conversion
 ![1st img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled1.png)
 
 ![2nd img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled2.png)
+
+Number of cookies counted before the studennt click `Strat Free Trial` and not affected with Experiment, so invariant metrics.
+
