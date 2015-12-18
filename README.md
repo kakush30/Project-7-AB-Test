@@ -23,4 +23,8 @@ Evaluation Metrics: Gross Conversion, Retention, Net Conversion
 
 4) Click through probablity is formed from 2 variables, number of unique cookoie to click `Start free Trial` & number of unique cookies to view the overview page. Both of this collected before starting of experiment, so this is invariant. 
 
-5)
+5) Number of users that checkout may be different because of experiment, and can be different, so this cant be choosen as invariant. But this can be Evaluation Metrics, as the difference of before & after can be meaningful for bussiness. As the Gross Conversion rate remain low that means low users checking out & enrolling. 
+
+6) Number of users that choose the Paid service after Free Trial. It can be chooses as Evaluation Mertics in hope more people retain the course after Free service.
+
+7) Because number of users remain enrolled past the trial, this cant be Invariant Metrics. But it can be Evaluation Metrics in expectation that after experiment it increase after experiment.
