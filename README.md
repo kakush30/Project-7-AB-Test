@@ -28,3 +28,8 @@ Evaluation Metrics: Gross Conversion, Retention, Net Conversion
 6) Number of users that choose the Paid service after Free Trial. It can be chooses as Evaluation Mertics in hope more people retain the course after Free service.
 
 7) Because number of users remain enrolled past the trial, this cant be Invariant Metrics. But it can be Evaluation Metrics in expectation that after experiment it increase after experiment.
+
+## Measuring Standardd Deviation 
+
+![3rd img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled3.png)
+
