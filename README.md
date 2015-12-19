@@ -39,9 +39,9 @@ For retention, as unit of analysis are user-ids, non-logged in data cannot be tr
 
 ## Sizing
 
-With Retention, the estimate page views 4741212.
+With Retention, the estimate page views is 4741212.
 
-But the days require for this experiment with even max traffic of one would be 4741212/40000 = 119 days. As time is too long, its best to remove Retention from experiment. 
+But the days require for this experiment with even max traffic of 1 would be 4741212/40000 = 119 days. As time is too long, its best to remove Retention from experiment. 
 
 Now, the days required would be 685325/40000 = 17 days.
 
