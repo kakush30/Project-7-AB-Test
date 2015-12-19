@@ -76,3 +76,14 @@ alpha individual = 0.05/2 = 0.025
 
 There was no discrepensy between the hypothesis test and sign test. 
 
+#### Recommendations
+
+I done two hypothesis test, one was the Gross Conversion & other Net Conversion. 
+
+Gross Conversion: The Gross Conversion defination is it is the ratio of the number of users enrolling in the course to the number of user who clicked Start Now Button. As the pop-up page recommend the minimum time required per week to complete this course, it reduce the total number of users enrolling for free Trial. Also the coaches able to concentrate on less number of students, and able to convert them from Free Trial to Paid Service. 
+
+Net Conversion: The Net Conversion defination is the number of users who enrolled for the Free Trial and make their first payment to the number of users who clicked the start free trial button. There is no statistically change in it 
+
+Even if there is no difference in Net Conversion, there is significant change in Gross Conversion, with smaller changes in front end, it worth a risk. But if the users in the Free Trial is low, then it totally undermine the conclusion of this experiment. 
+
+It is worth to make changes if users in Free Trial is quite large.
