@@ -57,9 +57,19 @@ I chooses to divert the full traffic, as it reduce the number of days.
 
 ![6th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled6.png)
 
-The observed value are in 95% confidence interval. All Sanity Checks passed.
+The observed value are in 95% confidence interval. Sanity Passed. 
 
 ## Result Analysis
 
 ![7th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled7.png)
 ![8th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled8.png)
+
+#### Summary 
+
+I discarded the use of Bonferroni correction in this experment as it is very conservative. 
+
+The two metrics share the variables like cookies and user-id, they are somewhat correlated to each other. If in improvement, the experiment cause to add or minus a metric, that it also going to affect the other metric too. 
+
+The alpha individual would be 0.025 for each of them. 
+
+alpha_indidual = 0.05/2 = 0.025
