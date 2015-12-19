@@ -46,3 +46,5 @@ But the days require for this experiment with even max traffic of 1 would be 474
 Now, the days required would be 685325/40000 = 17 days.
 
 ![4th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled4.png)
+
+![5th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled5.png)
