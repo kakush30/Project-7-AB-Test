@@ -50,3 +50,12 @@ Now, the days required would be 685325/40000 = 17 days.
 ![5th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled5.png)
 
 I chooses to divert the full traffic, as it reduce the number of days.
+
+## Experimental Analysis
+
+#### Sanity Check
+
+![6th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled6.png)
+
+The observed value are in 95% confidence interval. All Sanity Checks passed.
+
