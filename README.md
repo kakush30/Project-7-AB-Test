@@ -75,3 +75,4 @@ The alpha individual would be 0.025 for each of them.
 alpha individual = 0.05/2 = 0.025
 
 There was no discrepensy between the hypothesis test and sign test. 
+
