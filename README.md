@@ -40,3 +40,5 @@ For retention, as unit of analysis are user-ids, non-logged in data cannot be tr
 ## Sizing
 
 With Retention, the estimate page views 4741212.
+
+![4th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled4.png)
