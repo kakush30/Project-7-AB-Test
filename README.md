@@ -48,3 +48,5 @@ Now, the days required would be 685325/40000 = 17 days.
 ![4th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled4.png)
 
 ![5th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled5.png)
+
+I chooses to divert the full traffic, as it reduce the number of days.
