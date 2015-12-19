@@ -72,4 +72,6 @@ The two metrics share the variables like cookies and user-id, they are somewhat 
 
 The alpha individual would be 0.025 for each of them. 
 
-alpha_indidual = 0.05/2 = 0.025
+alpha individual = 0.05/2 = 0.025
+
+There was no discrepensy between the hypothesis test and sign test. 
