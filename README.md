@@ -41,4 +41,8 @@ For retention, as unit of analysis are user-ids, non-logged in data cannot be tr
 
 With Retention, the estimate page views 4741212.
 
+But the days require for this experiment with even max traffic of one would be 4741212/40000 = 119 days. As time is too long, its best to remove Retention from experiment. 
+
+Now, the days required would be 685325/40000 = 17 days.
+
 ![4th img](https://raw.githubusercontent.com/kakush30/Project-7-AB-Test/master/img/Untitled4.png)
