@@ -108,4 +108,4 @@ Evaluation Metrics:
 
 Net Conversion : The net conversion maybe drop or remain low because of Precourse Project, as this Project only passes those who clear it, and only allow creamy layer to go further.
 
-Course Completion Ratio: The Course Completion Ratio is those users who completed the Course divided by total users who enrolled in Course. The purpose for this to predict the Precourse Project affected the Completion Ratio is positive or negative . This Metric maybe remain high, as only those student able to enroll who are really interested about the course.
+Course Completion Ratio: The Course Completion Ratio are those users who completed the Course divided by total users who enrolled in Course. The purpose for this to predict the Precourse Project affected the Completion Ratio is positive or negative . This Metric maybe remain high, as only those student able to enroll who are really interested about the course.
