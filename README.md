@@ -66,7 +66,7 @@ The observed value are in 95% confidence interval. Sanity Passed.
 
 #### Summary 
 
-I discarded the use of Bonferroni correction in this experment as it is very conservative. 
+I discarded the use of Bonferroni correction in this experment as it is very conservative. And as we are using only testing one variation. It might be useful if we decide to do post test segmentation on results, for example on browser type or countries. 
 
 The two metrics share the variables like cookies and user-id, they are somewhat correlated to each other. If in improvement, the experiment cause to add or minus a metric, that it also going to affect the other metric too. 
 
