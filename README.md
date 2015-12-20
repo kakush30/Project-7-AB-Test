@@ -84,16 +84,14 @@ Gross Conversion: The Gross Conversion defination is it is the ratio of the numb
 
 Net Conversion: The Net Conversion defination is the number of users who enrolled for the Free Trial and make their first payment to the number of users who clicked the start free trial button. There is no statistically change in it 
 
-Even if there is no difference in Net Conversion, there is significant change in Gross Conversion, with smaller changes in front end, it worth a risk. But if the users in the Free Trial is low, then it totally undermine the conclusion of this experiment. 
-
-It is worth to make changes if users in Free Trial is quite large.
+My recommendations on this 
 
 ## Follow-Up Experiment
 
-For reducng the attrition rate in early of course, that is those students who left the course early because they are unknowledgeable about pre requisite learnings. 
+This Experiment is based on student that is enrolled in the Udacity, that is they paid the service for 1st Month. For reducng the money & time of Coaches, with this Coaches able to focus only on those who capable to complete this course.
 
 For that we need a course or a Project in the starting of the Course, so the users able to get an idea what prerequisite knowledge they should know & and what the course is all about. 
-The system also need an auto grader so Coaches spend more time to help those users who passed this project. 
+The system also need an auto grader so Coaches spend more time to help those users who passed this project and continued in the Course afterward. 
 
 The motive of this Hypothesis is that Udacity able to know the creamy layer of users and Coaches able to devote more time on those users who are actually interested and passed the pre course project. 
 The unit of diversion would be cookies as they can be tracked by the user-ids. 
@@ -108,4 +106,4 @@ Evaluation Metrics:
 
 Net Conversion : The net conversion maybe drop or remain low because of Precourse Project, as this Project only passes those who clear it, and only allow creamy layer to go furthur.
 
-Course Completion Ratio: The Course Completion Ratio is those users who completed the Course divided by total users who enrolled in Course. The purpose for this to predict the Precourse Project affected the Completion Ratio is postive or negetive way. This Course Completion Ratio expected to be high because of Precourse Project.
+Course Completion Ratio: The Course Completion Ratio is those users who completed the Course divided by total users who enrolled in Course. The purpose for this to predict the Precourse Project affected the Completion Ratio is postive or negetive way. This Metric maybe remain same, as the experiment is on those who already enrolled. 
