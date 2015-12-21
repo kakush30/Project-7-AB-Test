@@ -66,7 +66,7 @@ The observed values are in 95% confidence interval. Sanity Passed.
 
 #### Summary 
 
-I discarded the use of Bonferroni correction in this experiment as it is very conservative. As we are using multiple metrics, that means considering multiple metrics together that means all of them need to be significant and for that Bonferroni is not designed for. In this project multiple metrics need to be significant, so Bonferroni not going to be helpful.
+I discarded the use of Bonferroni correction in this experiment as it is very conservative. As we are using multiple metrics, that means considering multiple metrics together and all of them need to be significant.  For that Bonferroni is not designed. In this project multiple metrics need to be significant, so Bonferroni not going to be helpful.
 
 The two metrics share the variables like cookies and user-id, they are somewhat correlated to each other. If in improvement, the experiment cause to add or minus a metric, that it also going to affect the other metric too. 
 
