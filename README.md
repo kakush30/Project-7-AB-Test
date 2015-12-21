@@ -88,24 +88,22 @@ My recommendations on this is that the Gross Conversion actually showing positiv
 
 ## Follow-Up Experiment
 
-This Experiment is based on student that is about to enroll, that is they are in free service. 
+This Experiment is based on student that is about to pay there first payment, that is they are in free service. 
 
 For reducing the attrition rate in early of course, that is those students who left the course early because they are unknowledgeable about pre requisite leanings.
 
 For that we need a course or a Project during the Free Trial, so the users able to get an idea what prerequisite knowledge they should know & and what the course is all about. 
-The system also need an auto grader so Coaches spend more time to help those users who passed this project and continued in the Course afterward. 
+The system also need an auto grader so Coaches spend more time to help those users who passed this project and continued in the Course or are in Paid Servie. 
 
-The motive of this Hypothesis is that Udacity able to know the creamy layer of users and Coaches able to devote more time on those users who are actually interested in the Course and passed the pre course project. 
-The unit of diversion would be cookies as they are the only one usable in throughout the whole tracking process. 
+The motive of this Hypothesis is that Udacity able to know the creamy layer of users and Coaches able to devote more time on those users who are actually interested in the Course. 
+The unit of diversion would be user-id as they are already registered in Free Trial. 
 
 Invariant Metrics: 
 
-Number of Cookies : As the unit of diversion is cookie based, so we able to split the users between control & experimental group. 
-
-Number of users enroll for Free Trial: As the purposes and target of this experiment on those who already enrolled. 
+Number of users enroll for Free Trial: As the purposes and target of this experiment on those who already enrolled in free Trial, and about to pay there first payment.
 
 Evaluation Metrics: 
 
-Net Conversion : The net conversion maybe drop or remain low because of Precourse Project, as this Project only passes those who clear it, and only allow creamy layer to go further.
+Net Conversion : The net conversion maybe drop or remain low because of Precourse Project, as this passes by those who clear it, and only allow creamy layer to go further.
 
-Course Completion Ratio: The Course Completion Ratio are those users who completed the Course divided by total users who enrolled in Course. The purpose for this to predict the Precourse Project affected the Completion Ratio is positive or negative . This Metric maybe remain high, as only those student able to enroll who are really interested about the course.
+Course Completion Ratio: The Course Completion Ratio are those users who completed the Course divided by total users who paid there first payment. The purpose for this to predict the Precourse Project affected the Completion Ratio is positive or negative . This Metric maybe remain high, as only those student able to get in paid service who are really interested about the course.
