@@ -84,7 +84,7 @@ Gross Conversion: The Gross Conversion definition is it is the ratio of the numb
 
 Net Conversion: The Net Conversion definitionis the number of users who enrolled for the Free Trial and make their first payment to the number of users who clicked the start free trial button. There is no statistically change in it 
 
-My recommendations on this is that the Gross Conversion actually showing positive results and frustrated students left because they dont have enough time. In Net Conversion there is no statistically significant change, but confidence intervel does include the negative of the practical significance boundary. There is possibility that the number went down to an amount that matter to bussiness.                 
+My recommendations on this is that the Gross Conversion actually showing positive results and frustrated students left because they dont have enough time. In Net Conversion there is no statistically significant change, but confidence intervel does include the negative of the practical significance boundary. There is possibility that the number went down to an amount that matter to bussiness. So, launching the project not going to be helpful.                 
 
 ## Follow-Up Experiment
 
@@ -95,15 +95,15 @@ For reducing the attrition rate in early of course, that is those students who l
 For that we need a course or a Project during the Free Trial, so the users able to get an idea what prerequisite knowledge they should know & and what the course is all about. 
 The system also need an auto grader so Coaches spend more time to help those users who passed this project and continued in the Course or are in Paid Servie. 
 
-The motive of this Hypothesis is that Udacity able to know the creamy layer of users and Coaches able to devote more time on those users who are actually interested in the Course. 
+The motive of this Hypothesis is that Udacity able to know the creamy layer of users and Coaches able to devote more time on those users who are actually interested to pass the Course. 
 The unit of diversion would be user-id as they are already registered in Free Trial. 
 
 Invariant Metrics: 
 
-Number of users enroll for Free Trial: As the purposes and target of this experiment on those who already enrolled in free Trial, and about to pay there first payment.
+Number of users enroll for Free Trial: As the purposes and target of this experiment on those who already enrolled in free Trial.
 
 Evaluation Metrics: 
 
 Net Conversion : The net conversion maybe drop or remain low because of Precourse Project, as this passes by those who clear it, and only allow creamy layer to go further.
 
-Course Completion Ratio: The Course Completion Ratio are those users who completed the Course divided by total users who paid there first payment. The purpose for this to predict the Precourse Project affected the Completion Ratio is positive or negative . This Metric maybe remain high, as only those student able to get in paid service who are really interested about the course.
+Course Completion Ratio: The Course Completion Ratio are those users who completed the Course divided by total users who paid there first payment. The purpose for this to predict the Precourse Project affected the Completion Ratio is positive or in negative way. This Metric maybe remain high, as only those student able to get in paid service who are really interested in passing the course.
