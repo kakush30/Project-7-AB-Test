@@ -84,7 +84,7 @@ Gross Conversion: The Gross Conversion definition is it is the ratio of the numb
 
 Net Conversion: The Net Conversion definitionis the number of users who enrolled for the Free Trial and make their first payment to the number of users who clicked the start free trial button. There is no statistically change in it 
 
-My recommendations on this if the number of users in Free Trial are quite large then its best to launch. If not, then its best not to launch this as it may loose user's of Paid Service.                    
+My recommendations on this is that the Gross Conversion actually showing positive results and frustrated students left because they dont have enough time. In Net Conversion there is no statistically significant change, but confidence intervel does include the negative of the practical significance boundary. There is possibility that the number went down to an amount that matter to bussiness.                 
 
 ## Follow-Up Experiment
 
